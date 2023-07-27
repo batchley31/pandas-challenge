@@ -37,4 +37,12 @@
 
 # Scores by School Type
 
-To create the Data Frame by School Type I used the groupby to group the average math and reading scores and percents passing math, reading, and both by relating them to the types of schools column.  This way when the data frame displayed it will show the scores and passing percentages by what type of school it is. 
+To create the Data Frame by School Type I used the groupby to group the average math and reading scores and percents passing math, reading, and both by relating them to the types of schools column.  This way when the data frame displayed it will show the scores and passing percentages by what type of school it is.
+
+# Conclusion and Copmarison
+
+  The first conclusion that I made about this data is that Charter Schools tend to have the best passing rates compared to district schools and they are usually on the smaller side. The reason for this could be that the teachers have less students to focus on and can be more detlaied in their teaching approach.  
+
+  My second conclusion that I made about this data is that jsut becuase your school has a big budget can spend more money per student does not mean that their gardes and passing rates will be higher.  Now this could be again releated to more students per teacher so the teachers do not have enough time to focus on all their students and be intricate with them. In that case it would go back to the more students you have does not make it better to pass reading and math. 
+
+To conclude, according to the data, charter schools with less students have a better passing rate than bigger schools that are in a district.  It does not matter how much money you spend on youre students but the smaller the amount the more chance you have of them succeeding and passing math and reading. 
